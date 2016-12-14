@@ -1113,6 +1113,7 @@ figure {
   margin: 0;
 }
 img {
+  align-self: auto;
   vertical-align: middle;
 }
 .img-responsive,
